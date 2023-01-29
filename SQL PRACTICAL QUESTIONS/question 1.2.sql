@@ -1,0 +1,1 @@
+SELECT * FROM Client_Info INNER JOIN Company ON Client_Info.client_id = Company.client_id
